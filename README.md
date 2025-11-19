@@ -18,3 +18,7 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.djangoproject.com/" title="Django"><img width="32px" src="icons/django.png"/></a>
+
+---
+
+<a href="https://t.me/sai_lair" title="sai lair"><img height="32px" src="icons/channel.png"/></a>
