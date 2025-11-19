@@ -18,10 +18,3 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
 <a href="https://www.djangoproject.com/" title="Django"><img width="32px" src="icons/django.png"/></a>
-
----
-
-**Ранее работал**
-
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img width="30px" src="icons/c.png" /></a>
