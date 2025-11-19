@@ -21,4 +21,4 @@
 
 ---
 
-<a href="https://t.me/sai_lair" title="sai lair"><img height="32px" src="icons/channel.png"/></a>
+<a href="https://t.me/sai_lair" title="sai lair"><img height="60px" src="icons/channel.png"/></a>
