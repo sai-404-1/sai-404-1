@@ -3,9 +3,7 @@
 ### **Обо мне**
 
 <a href="https://t.me/sai_lair" title="sai lair"><img align='right' height="60px" src="icons/channel.png"/></a>
-- Занимаюсь веб-дизайном
 - Fullstack-разработчик
-- Пишу датасеты под языковые модели
 
 ---
 
