@@ -20,7 +20,3 @@
 <a href="https://www.djangoproject.com/" title="Django"><img width="32px" src="icons/django.png"/></a>
 
 ---
-
-**Контакты**
-
-[Telegram](https://t.me/sai_new)
