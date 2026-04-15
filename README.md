@@ -3,7 +3,9 @@
 ### **Обо мне**
 
 <a href="https://t.me/sai_lair" title="sai lair"><img align='right' height="60px" src="icons/channel.png"/></a>
-- Fullstack-разработчик
+- Fullstack-разработчик<br>
+
+<i>Программирование — творческая профессия</i>
 
 ---
 
